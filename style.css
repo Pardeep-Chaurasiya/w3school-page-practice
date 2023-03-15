@@ -1,0 +1,26 @@
+li{
+    list-style-type: square;
+}
+span{
+    font-size: 16px;
+    font-weight: bold;
+}
+.heading{
+    color: white;
+    background: orange;
+    font-size: 20px;
+}
+.underline{
+    width: 220px;
+}
+.content{
+    border: 2px none black;
+    border-radius: 5px;
+    background: rgb(237, 244, 248);
+}
+.left-side{
+    margin-left: 50px;
+}
+.right-side{
+    margin-left: 50px;
+}
